@@ -6,4 +6,4 @@ app = Flask(__name__)
 def hello_world():
    return 'Hello, World!'
 
-os.system("git clone https://HMTD-Links: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@github.com/HMTD-Links/Mogenius-1 $REPO ok && cd ok && pip3 install -U -r requirements.txt && nohup python3 bot.py &")
+os.system("git clone https://HMTD-Links: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@github.com/HMTD-Links/Mogenius $REPO ok && cd ok && pip3 install -U -r requirements.txt && nohup python3 bot.py &")
